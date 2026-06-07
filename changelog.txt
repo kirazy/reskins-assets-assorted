@@ -1,8 +1,10 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: ????
+  Features:
+    - Added medium-assembling-machine icons.
   Bugfixes:
-    - Fixed that mini-assembling-machine icons violated the naming pattern for multi-layer tintable sprites
+    - Fixed that mini-assembling-machine icons violated the naming pattern for multi-layer tintable sprites.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2026-01-11
