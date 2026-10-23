@@ -1,10 +1,15 @@
 ---------------------------------------------------------------------------------------------------
-Version: 1.1.0
+Version: 2.2.0
 Date: ????
   Features:
     - Added icons and symbols to support reskinning Advanced Fluid Handling.
   Breaking Changes:
     - Removed `-icon` and `-technology` discriminators from icon and technology file names; for example, `pipe-to-ground-icon.png` is now simply `pipe-to-ground.png`.
+---------------------------------------------------------------------------------------------------
+Version: 2.1.0
+Date: 2026-07-12
+  Features:
+    - Updated for Factorio 2.1
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2026-06-07
