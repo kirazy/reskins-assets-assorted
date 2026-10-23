@@ -3,6 +3,7 @@ Version: 2.2.0
 Date: ????
   Features:
     - Added icons and symbols to support reskinning Advanced Fluid Handling.
+    - Added the original assembling machine, heat exchanger, and oil refinery sprites as they existed in Factorio 2.0.
   Breaking Changes:
     - Removed `-icon` and `-technology` discriminators from icon and technology file names; for example, `pipe-to-ground-icon.png` is now simply `pipe-to-ground.png`.
 ---------------------------------------------------------------------------------------------------
