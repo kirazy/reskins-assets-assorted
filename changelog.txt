@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.2.0
-Date: ????
+Date: 2026-11-01
   Features:
     - Added icons and symbols to support reskinning Advanced Fluid Handling.
     - Added the original assembling machine, heat exchanger, and oil refinery sprites as they existed in Factorio 2.0.
