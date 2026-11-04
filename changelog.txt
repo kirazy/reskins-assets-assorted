@@ -1,6 +1,8 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.2.1
 Date: ????
+  Features:
+    - Added the frozen sprites of Factorio 2.0 for the original assembling machine, its pipes, and the original oil refinery.
   Changes:
 ---------------------------------------------------------------------------------------------------
 Version: 2.2.0
