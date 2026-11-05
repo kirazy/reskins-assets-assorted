@@ -3,6 +3,7 @@ Version: 2.2.1
 Date: ????
   Features:
     - Added the frozen sprites of Factorio 2.0 for the original assembling machine, its pipes, and the original oil refinery.
+    - Added the technology icons of the thermal tank and the solar collector, and the icons of the processed depleted uranium, magnesium, and osmium.
   Changes:
 ---------------------------------------------------------------------------------------------------
 Version: 2.2.0
