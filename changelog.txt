@@ -8,6 +8,7 @@ Date: ????
     - Moved the nuclear power technology icons of Realistic Reactor Glow to Artisanal Reskins: Vanilla Assets.
     - Renamed the gear icons of the miniature and medium assembling machines to `{name}-{machine_tier}-gear.png`.
     - Renamed the pink stacked alien science pack icon to `graphics/icons/stacked-science-packs-alien/stacked-alien-science-pack-pink.png`.
+    - Renamed the animations and shadows of the original assembling machine to number them from 1.
 ---------------------------------------------------------------------------------------------------
 Version: 2.2.0
 Date: 2026-11-01
