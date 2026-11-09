@@ -2,10 +2,10 @@
 Version: 2.3.0
 Date: ????
   Features:
-    - Added the frozen sprites of Factorio 2.0 for the original assembling machine, its pipes, and the original oil refinery.
-    - Added the technology icons of the thermal tank and the solar collector, the icons of the processed depleted uranium, magnesium, and osmium, and the icon of the mini recycler.
+    - Added frozen sprites for the original assembling machine, its pipe pictures, and the original oil refinery.
+    - Added the thermal tank and solar collector technology icons, the processed ore icons for depleted uranium, magnesium, and osmium, and the mini recycler icon.
   Breaking Changes:
-    - Moved the nuclear power technology icons of Realistic Reactor Glow to Artisanal Reskins: Vanilla Assets.
+    - Moved the Realistic Reactor Glow nuclear power technology icons to Artisanal Reskins: Vanilla Assets.
     - Renamed the gear icons of the miniature and medium assembling machines to `{name}-{machine_tier}-gear.png`.
     - Renamed the pink stacked alien science pack icon to `graphics/icons/stacked-science-packs-alien/stacked-alien-science-pack-pink.png`.
     - Renamed the animations and shadows of the original assembling machine to number them from 1.
