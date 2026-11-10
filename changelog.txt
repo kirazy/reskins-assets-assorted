@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.3.0
-Date: ????
+Date: 2026-11-09
   Features:
     - Added frozen sprites for the original assembling machine, its pipe pictures, and the original oil refinery.
     - Added the thermal tank and solar collector technology icons, the processed ore icons for depleted uranium, magnesium, and osmium, and the mini recycler icon.
